@@ -2,8 +2,8 @@
 plugin for fixing function tails v0.1
 
 
-shitty plugin
-todo:
-multiple branches for jnz,jbe etc.
-find block end correctly
+shitty plugin\n
+todo:\n
+multiple branches for jnz,jbe etc.\n
+find block end correctly\n
 find all jumpouts automatically
